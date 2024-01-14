@@ -1,0 +1,26 @@
+/* ===========================all default style here============================== */
+
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+    background-color: #c9d6ff;
+    background: linear-gradient(to right, #0518e9ae, #00cef7d2, #0518e9ae);
+}
+
+span { 
+    color:#F00;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Merriweater";
+}
+
+p { font-family: "Inter";}
+
